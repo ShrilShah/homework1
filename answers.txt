@@ -1,0 +1,2 @@
+What is the difference between a merge and a rebase?
+Merging retains the original commit history and preserves chronological order. Rebasing rewrites the commit history resulting in a linear history with no merge commits.
